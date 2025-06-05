@@ -1,3 +1,3 @@
 # git_tutorial
 
-test
+coflict_test
